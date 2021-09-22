@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning mobile development native using kotlin
+
 <!--
 **aransafp/aransafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
