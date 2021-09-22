@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi! 👋 I'm Aransa
 
 🌱 I’m currently learning mobile development native using kotlin
+
+<p align="left">
+<a href="https://github.com/aransafp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aransafp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aransafp&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **aransafp/aransafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
